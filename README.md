@@ -12,7 +12,7 @@
 - Bye For Now!
 
 **_I have no idea what is going on..._
-Mom-Life Crisis; wanting to have an identity outside of you're family life, so one attempts to pick up way too many hobbies, like graphic design and web dev.**
+-Mom-Life Crisis; wanting to have an identity outside of you're family life, so one attempts to pick up way too many hobbies, like graphic design and web dev.**
 
 <!---
 Harper90/Harper90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
