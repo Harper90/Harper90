@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harper90
 - AKA iridhollow
 - 👀 I’m interested in way too many things at the moment
-- 🌱 I’m currently -trying- to learn web app dev with the awesome creators of The Odin Project & attempting to teach myself to use graphic design apps like inkscape and krita
+- 🌱 I’m currently ~~trying~~- to learn web app dev with the awesome creators of The Odin Project & attempting to teach myself to use graphic design apps like inkscape and krita
 - I love art and being creative, I'm learning how to draw with charcoal, specifically photo realism. As well as using a graphics tablet, VEIKK A20.
 - I started The Odin Project because I realized when trying to set up an ecommerce site for my new business endevour that I HATE pre planned themes and drag & drop web dev. I used to use HTML4, when I was a teenager to make stupid websites with no concepts. 
 - Just started using Linux Ubuntu and I am In Love, So Many ways to troubleshoot problems and all from the bash terminal.
