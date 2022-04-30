@@ -11,8 +11,8 @@
 - 📫 How to reach me ... discord! @iridhollow, But I'm also a wife and a mother with ADHD, easily distracted and I suck at replying. Please dont feel bad or take it personally if it takes me forever to respond!
 - Bye For Now!
 
-**_I have no idea what is going on..._
--Mom-Life Crisis; wanting to have an identity outside of you're family life, so one attempts to pick up way too many hobbies, like graphic design and web dev.**
+[^1]: ***I have no idea what is going on...***
+[^2]: **_Mom-Life Crisis;_ wanting to have an identity outside of you're family life, so one attempts to pick up way too many hobbies, like graphic design and web dev.**
 
 <!---
 Harper90/Harper90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
